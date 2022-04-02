@@ -8,4 +8,4 @@ In this repository, you can scarp a shop and get product title and price and ima
 
 npm install
 
-npde index.js
+node index.js
